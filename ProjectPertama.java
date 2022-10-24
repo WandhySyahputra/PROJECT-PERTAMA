@@ -16,12 +16,12 @@ public class ProjectPertama {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String nama = "Shierly Margaretha";
-        String nik = "3573025303030002";
-        String tmplahir = "Malang", tgllahir ="13-03-2003";
-        int usia = 19;
-        char jenkel ='P';
-        final double bb =60;
+        String nama = "Wandhy Syahputra";
+        String nik = "1471072706010001";
+        String tmplahir = "PEMATANG SIANTAR", tgllahir ="27-06-2001";
+        int usia = 21;
+        char jenkel ='L';
+        final double bb =50;
         System.out.println("Identitas Pribadi");
         System.out.println("=================");
         System.out.println("NIK :"+nik);
